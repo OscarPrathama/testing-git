@@ -88,7 +88,7 @@ class PostController{
 
     }
 
-    public function SEOShpw(){
+    public function SEOShow(){
 
     }
 
