@@ -76,15 +76,19 @@ class PostController{
     /**
      * SEO Management
     */
-    public function SEOGeneralSettings(){
+    public function SEOIndex(){
 
     }
 
-    public function SEOURLSettings(){
+    public function SEOCreate(){
 
     }
 
-    public function SEOSitemapSettings(){
+    public function SEOStore(){
+
+    }
+
+    public function SEOShpw(){
 
     }
 
