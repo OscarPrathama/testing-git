@@ -72,4 +72,24 @@ class PostController{
         
     }
 
+
+    /**
+     * SEO Management
+    */
+    public function SEOIndex(){
+
+    }
+
+    public function SEOCreate(){
+
+    }
+
+    public function SEOStore(){
+
+    }
+
+    public function SEOShpw(){
+
+    }
+
 }
