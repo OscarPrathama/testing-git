@@ -1,5 +1,5 @@
 <?php
-
+namespace Controllers\Controller;
 interface Controller{
 
     public function index();
